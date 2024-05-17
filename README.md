@@ -49,9 +49,9 @@ NOTES:
 | [Nanoflow Commons](https://marketplace.mendix.com/link/component/109515) | [CommunityCommons](https://marketplace.mendix.com/link/component/170) | [Nanoflow Commons](https://marketplace.mendix.com/link/component/109515) | [CommunityCommons](https://marketplace.mendix.com/link/component/170)| [Website/Community](Website/Community) |
 | [NativeMobileResources](https://marketplace.mendix.com/link/component/109513) | [DigitalID_SDK](FWOS_Cloud_Agent_Core/DigitalID_SDK) (Controller, connection, verification, credential)| [NativeMobileResources](https://marketplace.mendix.com/link/component/109513) |[DigitalID_SDK](FWOS_Cloud_Agent_Core/DigitalID_SDK) (Controller, connection, verification, credential)|
 | [AgentSDK (CredoJS)](FWOSNativeCore/Agent_SDK)  | [VC_AnonCreds_SDK](FWOS_Cloud_Agent_Core/VCAnonCreds_SDK) (Schema, CredentialDefinition, AnonCreds) | [AgentSDK (CredoJS)](FWOSNativeCore/Agent_SDK) | [VC_AnonCreds_SDK](FWOS_Cloud_Agent_Core/VCAnonCreds_SDK) (Schema, CredentialDefinition, AnonCreds) | 
-| [Native Template](FWOS_Native_Template/Native_Template) | [DIDComm_SDK (BasicMessage)](FWOS_Cloud_Agent_DIDComm/DIDComm_SDK) | [Native Template](FWOS_Native_Agent_Reference/Native_Template)| [DIDComm_SDK (BasicMessage)](FWOS_Cloud_Agent_DIDComm/DIDComm_SDK) |
-| [KeyManagement](KeyManagement) | | [KeyManagement](KeyManagement) | [DIDComm_MediaSharing (Surveys)](FWOS_Cloud_Agent_DIDComm/DIDComm_MediaSharing) |
-| | | [Native Mobile](FWOS_Native_Agent_Reference/Native_Mobile) | [DIDComm_Questionnaire (Surveys)](FWOS_Cloud_Agent_DIDComm/DIDComm_Questionnaire) |
+| [Native Template](FWOS_Native_Template/Native_Template) | [DIDComm_SDK](FWOS_Cloud_Agent_DIDComm/DIDComm_SDK) (BasicMessage) | [Native Template](FWOS_Native_Agent_Reference/Native_Template)| [DIDComm_SDK](FWOS_Cloud_Agent_DIDComm/DIDComm_SDK) (BasicMessage) |
+| [KeyManagement](KeyManagement) | | [KeyManagement](KeyManagement) | [DIDComm_MediaSharing](FWOS_Cloud_Agent_DIDComm/DIDComm_MediaSharing) (Surveys) |
+| | | [Native Mobile](FWOS_Native_Agent_Reference/Native_Mobile) | [DIDComm_Questionnaire](FWOS_Cloud_Agent_DIDComm/DIDComm_Questionnaire) (Surveys) |
 | | | [Native Wallet](FWOS_Native_Agent_Reference/Native_Wallet) | [Connector_Paradym](Paradym/Connector_Paradym) (Projects, actions, workflows) |
 | | | [Connector_Paradym](Paradym/Connector_Paradym) (Projects, actions, workflows) | [Pusher]([FWOS_Native_Agent_Reference/Native_Mobile](https://marketplace.mendix.com/link/component/107957)) |
 | | | | [Encryption](https://marketplace.mendix.com/link/component/1011) |
